@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <!-- Górna klapka koperty -->
+  <path fill="#31FC00" d="M120 96 C 85 96, 56 125, 56 160 L 56 175 L 256 290 L 456 175 L 456 160 C 456 125, 427 96, 392 96 Z" />
+  
+  <!-- Dolna część koperty -->
+  <path fill="#31FC00" d="M56 220 L 56 352 C 56 387, 85 416, 120 416 L 392 416 C 427 416, 456 387, 456 352 L 456 220 L 256 335 Z" />
+</svg>
