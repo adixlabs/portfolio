@@ -293,9 +293,10 @@ p {
         width: 100%;
     }
 
-    #projects a {
+    #projects .to-flex a {
         width: 100%;
-        display: block;
+        display: flex;
+        flex-direction: column;
     }
 
     #projects article {
